@@ -47,11 +47,10 @@ To connect:
 - host=```imdb.yuvoh.com```
 - database=```imdb```
 - username=```candidate```
-- password=```yuvoh```
 - port=```3306```
 
 ### Platform choice
-- The API should be built using Node.js. You may use a framework on top (such as Express) if you wish.
+- The API should be built using Node.js. You may use a framework on top (such as Express) if you wish but please do not use an ORM.
 
 ## Guidelines
 - Spend as much or as little time as you wish, but try to complete the core functionality if possible!
